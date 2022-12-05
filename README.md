@@ -1,4 +1,4 @@
-# SnakeAndLadderGame
+# Snake And Ladder Game
 
 Snake And Ladder Game Program
 
